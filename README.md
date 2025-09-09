@@ -1,4 +1,4 @@
-## Hi there 👋I'am Ritesh!
+## Hi there👋I'am Ritesh!
 ![snake gif](https://github.com/rlly-ritesh/rlly-ritesh/blob/output/github-snake-dark.svg)
 
 <!--
