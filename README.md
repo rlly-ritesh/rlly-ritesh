@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![snake gif](https://github.com/rlly-ritesh/rlly-ritesh/blob/output/github-snake.svg)
+![snake gif](https://github.com/rlly-ritesh/rlly-ritesh/blob/output/github-snake-dark.svg)
 
 <!--
 **rlly-ritesh/rlly-ritesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
